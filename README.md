@@ -25,5 +25,5 @@ GitHub Actions automatically runs the following steps:
 -git add .
 -git commit -m "your message".
 -git push origin main.
-GitHub Actions will automatically start the workflow.
+-GitHub Actions will automatically start the workflow.
 
